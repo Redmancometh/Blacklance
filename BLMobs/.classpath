@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_11"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/BlackLance/plugins/BLEvents.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/BlackLance/spig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/BlackLance/plugins/Citizens.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/Server1/plugins/worldedit-bukkit-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/Server1/plugins/worldguard-6.0.0-beta-03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/BlackLance/plugins/HolographicDisplays.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/BlackLance/plugins/BLCombat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Redman/Desktop/spigot/BlackLance/plugins/blcore-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

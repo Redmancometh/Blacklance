@@ -1,0 +1,34 @@
+IDs:
+  - 20
+  - 21
+ID:
+  20:
+    title: "Test Inventory"
+    names:
+      - Decent Iron Sword
+      - Average Iron Sword
+    values:
+      - 20
+      - 20
+    lores:
+      - poop, poop
+      - poop2, poop2
+    materials:
+      - IRON_SWORD
+      - GOLD_SWORD
+    location: 10, 4, 10
+  21:
+    title: "Test Inventory"
+    names:
+      - Poop
+      - Poop2
+    values:
+      - 20
+      - 20
+    lores:
+      - poop, poop
+      - poop2, poop2
+    materials:
+      - IRON_SWORD
+      - GOLD_SWORD
+    location: 10, 4, 20

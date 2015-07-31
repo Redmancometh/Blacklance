@@ -1,0 +1,7 @@
+name: BLResources
+main: com.strongholdmc.blresources.main.Main
+version: 1.0
+commands:
+  addnode:
+    description: Add node.
+    usage: /addnode [node]

@@ -1,0 +1,11 @@
+Region:
+  crasmeer:
+    Name: crasmeer
+    MobNames: 
+      - Zombie,Zombie
+      - Skeleton,Skeleton
+    Minlvl: 1
+    Maxlvl: 3
+    Aggressive: false
+RegionList:
+  - crasmeer

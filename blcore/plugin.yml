@@ -1,0 +1,51 @@
+name: BlackLanceCore
+main: com.strongholdmc.blcore.main.BlackLance
+version: 1.0
+commands:
+   setup:
+      description: Join the game.
+      usage: /join
+   blreload:
+      description: Reload
+      usage: /breload
+   blevel:
+      description: Reload
+      usage: /breload
+   bs:
+      description: Reload
+      usage: /breload
+   getLoc:
+      description: get Location
+      usage: /getLoc
+   horse:
+      description: badass horse
+      usage: /horse
+   lookup:
+      description: badass horse
+      usage: /horse
+   resource:
+      description: badass horse
+      usage: /horse  
+   p:
+      description: badass horse
+      usage: /horse
+   party:
+      description: badass horse
+      usage: /horse
+   acceptinvite:
+      description: badass horse
+      usage: /horse
+   makeparty:
+      description: make a party
+      usage: /makeparty
+   invite:
+      description: make a party
+      usage: /makeparty
+   leaveparty:
+      description: make a party
+      usage: /makeparty
+   kickfromparty:
+      description: make a party
+      usage: /makeparty
+depend: [Citizens]
+softdepend: [HolographicDisplays]

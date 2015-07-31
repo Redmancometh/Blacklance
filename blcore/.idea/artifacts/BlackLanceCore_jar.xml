@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlackLanceCore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlackLanceCore_jar</output-path>
+    <root id="archive" name="BlackLanceCore.jar">
+      <element id="module-output" name="BlackLanceCore" />
+      <element id="library" level="module" name="Essentials-2.x-SNAPSHOT.jar" module-name="BlackLanceCore" />
+      <element id="library" level="module" name="BLEvents.jar" module-name="BlackLanceCore" />
+      <element id="library" level="module" name="Citizens.jar" module-name="BlackLanceCore" />
+      <element id="library" level="module" name="BarAPI.jar" module-name="BlackLanceCore" />
+      <element id="library" level="module" name="spig2.jar" module-name="BlackLanceCore" />
+    </root>
+  </artifact>
+</component>

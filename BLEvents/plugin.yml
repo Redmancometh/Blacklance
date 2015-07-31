@@ -1,0 +1,3 @@
+name: BLEvents
+main: com.strongholdmc.blevents.main.BLEvents
+version: 1.0

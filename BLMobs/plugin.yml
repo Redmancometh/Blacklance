@@ -1,0 +1,4 @@
+name: BLMobs
+main: com.strongholdmc.blmobs.main.Main
+version: 1.0
+depend: [Citizens]
